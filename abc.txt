@@ -1,0 +1,3 @@
+a = mani
+print ($a)
+print " hello world "
